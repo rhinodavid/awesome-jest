@@ -72,6 +72,7 @@
 
 ### Reporters
 
+- [jest-quiet-reporter](https://github.com/rhinodavid/jest-quiet-reporter) Suppresses console logs for passing tests.
 - [jest-silent-reporter](https://github.com/rickhanlonii/jest-silent-reporter) A silent reporter for Jest.
 - [jest-junit](https://github.com/jest-community/jest-junit) A JUnit format reporter for Jest which can integrate with CI systems.
 - [jest-xunit](https://github.com/sscaff1/jest-xunit) An xUnit format reporter for Jest.
